@@ -3,7 +3,7 @@ How to Contact Private Internet Access Customer Support?
 
 When using a VPN, having dependable customer support makes all the difference. With **Private Internet Access (PIA)**, users get not only strong online security but also reliable and helpful assistance whenever they face technical difficulties or account-related concerns. 
 
-.. image:: service-now.gif
+.. image:: support.png
    :alt: My Project Logo
    :width: 400px
    :align: center
